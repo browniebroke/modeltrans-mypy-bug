@@ -2,3 +2,5 @@ Django==4.2
 
 mypy==1.2.0  # https://github.com/python/mypy
 django-stubs==1.16.0  # https://github.com/typeddjango/django-stubs
+
+django-modeltrans==0.7.4

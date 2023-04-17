@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "modeltrans_mypy_case.myapp",
+    "modeltrans",
 ]
 
 MIDDLEWARE = [
